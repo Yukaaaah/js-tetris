@@ -1,0 +1,7 @@
+canvas {
+  /* 以下2行でセンタリング*/
+  display: block;
+  margin: auto; 
+  /*黒の実践を1pxでかく*/
+  border: 1px solid black;
+}
